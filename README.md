@@ -31,5 +31,3 @@ Now I'm diving deep into **Rust**, where performance and precision meet – exac
 - 🧠 Becoming a well-rounded full-stack dev with solid low-level knowledge
 
 ---
-
-_“Code that runs is good. Code that flies is better.”_
