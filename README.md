@@ -10,7 +10,7 @@ Now I'm diving deep into **Rust**, where performance and precision meet – exac
 
 - 💻 **Languages:** Rust (learning), Java, Python, JavaScript  
 - 🌐 **Web:** Svelte, Next.js, HTML, CSS  
-- ⚙️ **Tools:** Git, Neovim, VS Code, Proxmox  
+- ⚙️ **Tools:** Git, Neovim, JetBrains 
 - 📦 **Current Interests:** Systems programming, backend APIs, performance tuning  
 
 ---
