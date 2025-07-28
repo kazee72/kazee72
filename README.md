@@ -19,7 +19,7 @@ Now I'm diving deep into **Rust**, where performance and precision meet – exac
 
 > 🔐 I like building tools that are fast and optimized.
 
-- [`Linked List`]([https://github.com/JoelBonini/NotSoSecure](https://github.com/kazee72/Linked-List)):  
+- [`Linked List`](https://github.com/kazee72/Linked-List)  
   
 
 ---
