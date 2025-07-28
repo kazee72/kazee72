@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Joel Bonini
+# 👋 Hey, I'm Joel
 
 I'm a software developer apprentice with a passion for writing useful, optimized code.  
 I started out with Python a few years ago, explored the web with JavaScript, Svelte, and Next.js, and became quite familiar with Java.  
