@@ -9,9 +9,7 @@ Now I'm diving deep into **Rust**, where performance and precision meet – exac
 ## 🛠️ Tech Stack
 
 - 💻 **Languages:** Rust, Java, Python, JavaScript, TypeScript 
-- 🌐 **Web:** Next.js, HTML, CSS  
-- ⚙️ **Tools:** Git, VSCodium
-- 📦 **Current Interests:** Systems programming, backend APIs, performance tuning  
+- 🌐 **Web:** Next.js, HTML, CSS   
 
 ---
 
