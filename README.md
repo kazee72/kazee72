@@ -20,4 +20,6 @@ Now I'm diving deep into **Rust**, where performance and precision meet – exac
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazee72&layout=compact&theme=dark)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
