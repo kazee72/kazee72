@@ -1,9 +1,8 @@
 # Hey, I'm Joel
 
-I'm a software developer apprentice with a passion for writing useful, optimized code.  
-I started out with Python a few years ago, explored the web with TypeScript and Next.js.  
-Then came **Rust**, my favourite language which im still actively learning and improving in.
-
+I'm a software developer apprentice with a passion for writing useful, optimized code.
+I started out with Python a few years ago, explored the web with TypeScript and Next.js, and then discovered **Rust** — my favorite language, which I'm still actively learning and improving in.
+Currently, I'm diving into cybersecurity and CTFs, though I'm still at the beginning of that journey.
 ---
 
 ## 📚 Tech Stack
