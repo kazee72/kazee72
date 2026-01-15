@@ -19,3 +19,5 @@ Now I'm diving deep into **Rust**, where performance and precision meet – exac
   
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazee72&layout=compact&theme=dark)
