@@ -14,7 +14,8 @@ Currently, I'm diving into cybersecurity and CTFs, though I'm still at the begin
 
 ## 🚀 Projects & Experiments
 
-- [`Linked List`](https://github.com/kazee72/Linked-List)  
+- [`Linked List`](https://github.com/kazee72/Linked-List)
+- [`Hydrogen`](https://github.com/kazee72/Hydrogen)
   
 
 ---
