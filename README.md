@@ -1,4 +1,4 @@
-# Hey, I'm Joel
+# Hey, I'm kaze
 
 I'm a software developer apprentice with a passion for writing useful, optimized code.
 I started out with Python a few years ago, explored the web with TypeScript and Next.js, and then discovered **Rust** - my favorite language, which I'm still actively learning and improving in.
