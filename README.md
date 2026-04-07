@@ -16,7 +16,7 @@ Currently, I'm diving into cybersecurity and CTFs, though I'm still at the begin
 
 - [`Linked List`](https://github.com/kazee72/Linked-List)
 - [`hydropress`](https://github.com/kazee72/hydropress)
-- [`portygon`](https://github.com/kazee72/hydropress)
+- [`portygon`](https://github.com/kazee72/portygon)
   
 
 ---
